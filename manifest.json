@@ -1,0 +1,32 @@
+[
+  {
+    "file": "01_hover.wav",
+    "sha256": "b013182c0c1912006d80b69fc85ec130c5fca6b9291072050ea6f2679937db36",
+    "bytes": 9644
+  },
+  {
+    "file": "05_select.wav",
+    "sha256": "f9afb7f405ab8ea103385bd02adced81120dfd539151399acc69118b69a1c72a",
+    "bytes": 23564
+  },
+  {
+    "file": "11_panel_open.wav",
+    "sha256": "022c73719fe7fb2f5d54b56a61180c6737ddff97513d828e236b0424ae599604",
+    "bytes": 23564
+  },
+  {
+    "file": "18_confirm.wav",
+    "sha256": "a46bd608435649a5ca5a664cc06b47f503166da2d8a13316669378bcb6d58c0f",
+    "bytes": 50444
+  },
+  {
+    "file": "22_denied.wav",
+    "sha256": "f24308ed0ed7d589e7bc2cb96c18c556d8076f1b3048260f88b4599a88bcee37",
+    "bytes": 36044
+  },
+  {
+    "file": "24_complete.wav",
+    "sha256": "8794f9aa7d3b18b8307b51e96664f281b249f73974651510caf9d87de4ee89e2",
+    "bytes": 80204
+  }
+]

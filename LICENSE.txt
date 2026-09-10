@@ -1,0 +1,19 @@
+Quiet UI asset license
+
+These terms apply to the audio supplied through the official Quiet UI release.
+
+Upon lawful acquisition of the published release, the purchaser may use,
+copy, edit, and incorporate the included audio into commercial and
+non-commercial games, applications, films, and other finished audiovisual
+projects. Attribution is not required. This permission is non-exclusive
+and permits use in multiple projects.
+
+Do not resell, sublicense, or redistribute the audio as a standalone
+sound library, downloadable asset collection, or materially equivalent
+competing product. Sharing within a project team for use in the licensed
+finished project is permitted; independent reuse by others requires their
+own license. No exclusive ownership of the sounds is transferred.
+
+The audio is supplied as-is, without a promise of compatibility with any
+particular engine or a promise of commercial results. Nothing in these
+terms excludes rights or obligations that cannot lawfully be excluded.
