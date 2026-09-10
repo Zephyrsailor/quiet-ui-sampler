@@ -4,7 +4,7 @@ A small, playable palette of short tonal UI cues for games and apps.
 
 ![Quiet UI free sampler](cover.png)
 
-[Play the browser demo](https://bitpotential.itch.io/quiet-ui-free-sampler) · [Full 24-sound collection — US$3](https://bitpotential.itch.io/quiet-ui)
+[Play the browser demo](https://bitpotential.itch.io/quiet-ui-free-sampler) · [Full 24-sound collection](https://bitpotential.itch.io/quiet-ui)
 
 ## Included
 
